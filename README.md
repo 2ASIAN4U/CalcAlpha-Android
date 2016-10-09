@@ -4,7 +4,7 @@ V1.3.1
 - [x] Order of Operations
 - [x] Carry anwser from previous equation
 - [x] Decimal Calculations*
-TODO:
+######TODO:
 - [ ] Sine, Cosine, Tangent
 - [ ] Parenthesis
 - [ ] Dynamic Equation Output Line
